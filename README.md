@@ -60,4 +60,4 @@ Add real-time prediction via web interface (e.g., Streamlit)
 Include socioeconomic or geographic data for deeper analysis
 📬 Contact
 For questions or collaboration opportunities:
-Kirtan Shah
+Lalitgole
